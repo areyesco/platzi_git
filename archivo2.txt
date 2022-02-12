@@ -4,6 +4,9 @@ Este es el archivo 2
 Autor: armando reyes
 
 BODY
-Contenido del archivo
 
-Esta linea despues del primer add, pero antes del commit
+B_CONTENT
+
+TITLE: Contenido del archivo
+
+POST: Esta linea despues del primer add, pero antes del commit
