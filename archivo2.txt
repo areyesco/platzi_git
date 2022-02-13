@@ -6,7 +6,7 @@ Autor: armando reyes
 BODY
 
 B_CABECERA
-Este es una cabecera del post
+Este es una cabecera del post, con estilo
 
 B_CONTENT
 
