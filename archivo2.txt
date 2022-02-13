@@ -5,6 +5,9 @@ Autor: armando reyes
 
 BODY
 
+B_CABECERA
+Este es una cabecera del post
+
 B_CONTENT
 
 TITLE: Contenido del archivo
