@@ -18,3 +18,5 @@ Esta linea despues del primer add, pero antes del commit
 Esta es segunda linea de contenido despues de cabecera con estilo
 
 Agregamos mas contenido despues de hacer merge de cabecera a master
+
+Otra linea a contenido en branch de cabecera
