@@ -10,7 +10,7 @@ Este es una cabecera del post, con estilo en master
 
 B_CONTENT
 
-TITLE: Contenido del archivo
+TITLE: Modificado desde github
 
 POST: 
 Esta linea despues del primer add, pero antes del commit
